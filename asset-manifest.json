@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72ab6b6c.chunk.css",
+    "main.js": "/static/js/main.e7337317.chunk.js",
+    "main.js.map": "/static/js/main.e7337317.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.02ea76d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.02ea76d5.js.map",
+    "static/js/2.41984b69.chunk.js": "/static/js/2.41984b69.chunk.js",
+    "static/js/2.41984b69.chunk.js.map": "/static/js/2.41984b69.chunk.js.map",
+    "static/js/3.94a5f6c8.chunk.js": "/static/js/3.94a5f6c8.chunk.js",
+    "static/js/3.94a5f6c8.chunk.js.map": "/static/js/3.94a5f6c8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.72ab6b6c.chunk.css.map": "/static/css/main.72ab6b6c.chunk.css.map",
+    "static/js/2.41984b69.chunk.js.LICENSE.txt": "/static/js/2.41984b69.chunk.js.LICENSE.txt",
+    "static/media/app-icon.6ffe41a9.svg": "/static/media/app-icon.6ffe41a9.svg",
+    "static/media/eye-closed.43b3f0be.svg": "/static/media/eye-closed.43b3f0be.svg",
+    "static/media/eye-open.4b530d78.svg": "/static/media/eye-open.4b530d78.svg",
+    "static/media/logo.746610a8.svg": "/static/media/logo.746610a8.svg",
+    "static/media/mail.1b407ecc.svg": "/static/media/mail.1b407ecc.svg",
+    "static/media/password.e34b162e.svg": "/static/media/password.e34b162e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ea76d5.js",
+    "static/js/2.41984b69.chunk.js",
+    "static/css/main.72ab6b6c.chunk.css",
+    "static/js/main.e7337317.chunk.js"
+  ]
+}
